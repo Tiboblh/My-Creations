@@ -1,1 +1,2 @@
-alert("Payload loaded")
+console.log("payload")
+
