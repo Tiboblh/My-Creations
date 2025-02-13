@@ -1,2 +1,1 @@
-console.log("payload")
-
+alert("payload");
