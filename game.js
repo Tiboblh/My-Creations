@@ -1,1 +1,1 @@
-alert("payload");
+alert("Hello, world!");
